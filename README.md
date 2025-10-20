@@ -50,5 +50,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankgul&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=true&order=2" height="200" alt="languages graph"  />
 </div>
 
-<br />
 <img align="left" src="https://raw.githubusercontent.com/mayankgul/mayankgul/output/snake.svg" alt="Snake animation" />
