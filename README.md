@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=https://mayankdev.in/&fontSize=45&fontColor=d0d5d9&fontAlign=50&fontAlignY=70&rotate=0&stroke=-&strokeWidth=0&animation=blink&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <a href="https://www.mayankdev.in/" target="_blank"><img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=https://mayankdev.in/&fontSize=45&fontColor=d0d5d9&fontAlign=50&fontAlignY=70&rotate=0&stroke=-&strokeWidth=0&animation=blink&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  /></a>
 </div>
 
 ###
